@@ -1,5 +1,4 @@
 ### Hi there 👋
-# hi there
 
 
 <p align="center">

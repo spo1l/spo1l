@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https:feds.lol/r6">
+  <a href ="https://feds.lol/r6">
     <img src="https://lanyard.cnrad.dev/api/543370403863855114"/>
 </a><br><br>
   <p align="left">

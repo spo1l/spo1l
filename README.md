@@ -7,7 +7,7 @@
 </a><br><br>
   <p align="left">
    <a href ="https://discord.com/channels/@me/1014267997038330061">
-  <img src="https://cdn.discordapp.com/attachments/1069361273407545526/1086938921021214791/image.png"/>
+  <img src="https://cdn.discordapp.com/attachments/1087763662074290257/1087786014157844561/image.png"/>
     </a><br><br>
     <p align="center">
   <a href="https://github.com/spo1l">
